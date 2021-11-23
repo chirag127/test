@@ -227,20 +227,20 @@ body:
 
         Warning: Please remove private info before upload screenshots!
       value: |
-          1. <comment>
+        1. <comment>
 
-          2. Screenshots
-          <details><summary>Screenshot 1:</summary>
+        2. Screenshots
+        <details><summary>Screenshot 1:</summary>
 
-          <!-- paste screenshot here -->
+        <!-- paste screenshot here -->
 
-          </details>
+        </details>
 
-          <details><summary>Screenshot N:</summary>
+        <details><summary>Screenshot N:</summary>
 
-          <!-- paste screenshot here -->
+        <!-- paste screenshot here -->
 
-          </details>
+        </details>
     validations:
       required: true
 
@@ -252,4 +252,3 @@ body:
       options:
         - label: I agree to follow this condition
           required: true
-
